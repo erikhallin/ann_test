@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1514419812 source:d:\cpp\ann_test\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<fstream>
+	<ctime>
+	<stdlib.h>
+
